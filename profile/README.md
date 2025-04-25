@@ -1,4 +1,4 @@
-## Style your enviorment with Labellum 🌺
+## Style your environment with Labellum 🌺
 
 Labellum comes in two styles:
 
